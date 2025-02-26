@@ -24,7 +24,7 @@ export const englandRecords: RecordSet = {
 		},
 		{ description: "Highest scoring African player in Premier League history; 182" },
 		{
-			description: "Most assists registered by an African player in Premier League history; 85",
+			description: "Most assists registered by an African player in Premier League history; 86",
 		},
 		{
 			description: "Most left-footed goals scored in Premier League history; 147",
@@ -173,7 +173,7 @@ export const liverpoolRecords: RecordSet = {
 				"Most goals in first 100 appearances in all competitions in Liverpool history; 69",
 		},
 		{
-			description: "Most assists in a single Premier League season; 16 in 2024-25",
+			description: "Most assists in a single Premier League season; 17 in 2024-25",
 		},
 		{
 			description: "Most penalties scored by a Liverpool player in Premier League history; 32",
