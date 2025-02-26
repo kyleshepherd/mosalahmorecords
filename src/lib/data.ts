@@ -36,7 +36,7 @@ export const englandRecords: RecordSet = {
 		},
 		{
 			description:
-				"First player to register at least 25 goals and 15 assets in a Premier League season; in 2024-25",
+				"First player to register at least 25 goals and 15 assists in a Premier League season; in 2024-25",
 		},
 		{
 			description:
