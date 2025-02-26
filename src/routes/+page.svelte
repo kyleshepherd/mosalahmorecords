@@ -1,5 +1,18 @@
 <script lang="ts">
-	import Header from "../lib/Header/Header.svelte";
+	import RecordTable from "$lib/components/RecordTable/RecordTable.svelte";
+	import {
+		egyptRecords,
+		englandRecords,
+		europeRecords,
+		italyRecords,
+		liverpoolRecords,
+	} from "$lib/data";
 </script>
 
-<Header />
+<div class="my-8">
+	<RecordTable recordSet={englandRecords} />
+	<RecordTable recordSet={europeRecords} />
+	<RecordTable recordSet={liverpoolRecords} />
+	<RecordTable recordSet={egyptRecords} />
+	<RecordTable recordSet={italyRecords} />
+</div>
