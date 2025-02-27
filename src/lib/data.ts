@@ -189,7 +189,7 @@ export const liverpoolRecords: RecordSet = {
 		},
 		{
 			description:
-				"First and only Liverpool player to score 20+ goals in five different Premier League seasons; 2017-18, 2018-19, 202-21, 2021-22, 2024-25",
+				"First and only Liverpool player to score 20+ goals in five different Premier League seasons; 2017-18, 2018-19, 2020-21, 2021-22, 2024-25",
 		},
 		{
 			description:
