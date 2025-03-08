@@ -22,12 +22,12 @@ export const englandRecords: RecordSet = {
 			description:
 				"Most away goal involvements by a player in a single Premier League season; 27 in 2024-25",
 		},
-		{ description: "Highest scoring African player in Premier League history; 183" },
+		{ description: "Highest scoring African player in Premier League history; 184" },
 		{
 			description: "Most assists registered by an African player in Premier League history; 86",
 		},
 		{
-			description: "Most left-footed goals scored in Premier League history; 148",
+			description: "Most left-footed goals scored in Premier League history; 149",
 		},
 		{
 			description:
@@ -148,13 +148,13 @@ export const liverpoolRecords: RecordSet = {
 	name: "Liverpool",
 	records: [
 		{
-			description: "Top goalscorer in the Premier League for Liverpool; 181",
+			description: "Top goalscorer in the Premier League for Liverpool; 182",
 		},
 		{
 			description: "All-time Liverpool top goalscorer in the UEFA Champions League; 45",
 		},
 		{
-			description: "Most Premier League goals by a player at Anfield Stadium; 102",
+			description: "Most Premier League goals by a player at Anfield Stadium; 103",
 		},
 		{
 			description: "Most away goals in a single Premier League season; 16 in 2024-25",
@@ -176,7 +176,7 @@ export const liverpoolRecords: RecordSet = {
 			description: "Most assists in a single Premier League season; 17 in 2024-25",
 		},
 		{
-			description: "Most penalties scored by a Liverpool player in Premier League history; 33",
+			description: "Most penalties scored by a Liverpool player in Premier League history; 34",
 		},
 		{
 			description: "Fastest player to score 100 top-flight goals for Liverpool; 151 games",
