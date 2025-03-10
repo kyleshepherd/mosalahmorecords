@@ -157,7 +157,7 @@ export const liverpoolRecords: RecordSet = {
 			description: "Most Premier League goals by a player at Anfield Stadium; 103",
 		},
 		{
-			description: "Most goal involvements in a single Premier League season; 44",
+			description: "Most goal involvements in a single Premier League season; 44 in 2024-25",
 		},
 		{
 			description: "Most away goals in a single Premier League season; 16 in 2024-25",
