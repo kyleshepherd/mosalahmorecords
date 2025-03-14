@@ -102,6 +102,10 @@ export const englandRecords: RecordSet = {
 			description: "Most left-footed goals in a single Premier League season; 25 in 2017-18",
 		},
 		{
+			description: "Most Player of the Month awards in the history of the Premier League; 7",
+			info: "Shared with Harry Kane and Sergio Aguero",
+		},
+		{
 			description:
 				"Most Premier League Player of the Month awards in a single season; 3 in 2017-18",
 			info: "November 2017, February 2017 and March 2018",
